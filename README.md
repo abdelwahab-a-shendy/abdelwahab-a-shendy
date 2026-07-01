@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdelwahab A. Shandy
 
-![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-ahmed-shandy&color=blue) [![Visit My Blog](https://img.shields.io/badge/Visit%20My%20Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://abdelwahabshandy.hashnode.dev)
+![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-a-shendy&color=blue) [![Visit My Blog](https://img.shields.io/badge/Visit%20My%20Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://abdelwahabshandy.hashnode.dev)
 > I write about **Cybersecurity**, **CTFs**, **Web Vulnerabilities**, and **Programming Tips** on my official blog.  
 > Check it out and follow me on my learning journey!
 
@@ -53,27 +53,27 @@ Currently, I am focused on SOC operations, Detection Engineering, and enterprise
 
 | Name | Description | Tech | Status |
 |------|-------------|------|--------|
-| 🪛 [Enterprise Infrastructure Simulation](https://github.com/abdelwahab-ahmed-shandy/Enterprise-Infrastructure-Simulation) | A structured collection of hands-on labs covering Windows Server administration, networking, and security in enterprise environments. | Windows Server, Networking, SQL Server | ✅ Completed |
-| 🎥 [Movie Market](https://github.com/abdelwahab-ahmed-shandy/Movie-Market) | Movie booking and streaming | ASP.NET MVC, SQL Server | ✅ Completed |
-| 🗂️ [Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Full DB modeling | MySQL, EERD, SQL | ✅ Completed |
-| 🧠 [Multi-Language Challenges](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language) | Programming tasks | C#, C++, Flowgorithm, OOP | ✅ Completed |
-| 🧩 [Mini OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) | Practice with OOP | C#, C++, OOP | ✅ Completed |
-| 📟 [Arduino Calculator](https://github.com/abdelwahab-ahmed-shandy/Arduino-Calculator-4x4-Keypad-LCD) | Simple Arduino project | Arduino, Keypad, LCD | ✅ Completed |
+| 🪛 [Windows Server Labs](https://github.com/abdelwahab-a-shendy/Windows-Server-Labs) | A structured collection of hands-on labs covering Windows Server administration, networking, and security in enterprise environments. | Windows Server, Networking, SQL Server | ✅ Completed |
+| 🎥 [Movie Market](https://github.com/abdelwahab-a-shendy/Movie-Market) | Movie booking and streaming | ASP.NET MVC, SQL Server | ✅ Completed |
+| 🗂️ [Database Design](https://github.com/abdelwahab-a-shendy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Full DB modeling | MySQL, EERD, SQL | ✅ Completed |
+| 🧠 [Multi-Language Challenges](https://github.com/abdelwahab-a-shendy/Programming-Challenges-Multi-Language) | Programming tasks | C#, C++, Flowgorithm, OOP | ✅ Completed |
+| 🧩 [Mini OOP Projects](https://github.com/abdelwahab-a-shendy/CSharp-OOP-Mini-Projects) | Practice with OOP | C#, C++, OOP | ✅ Completed |
+| 📟 [Arduino Calculator](https://github.com/abdelwahab-a-shendy/Arduino-Calculator-4x4-Keypad-LCD) | Simple Arduino project | Arduino, Keypad, LCD | ✅ Completed |
 
 ---
 
 ## 📊 GitHub Overview
 
 ### 🔥 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-ahmed-shandy&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-a-shendy&theme=radical)
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/Followers-5000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-ahmed-shandy/)
-[![Medium](https://img.shields.io/badge/Followers-40-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-ahmed-shandy)
+[![LinkedIn](https://img.shields.io/badge/Followers-5000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-a-shendy/)
+[![Medium](https://img.shields.io/badge/Followers-40-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AAAS)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-a-shendy)
 
 > ⚡ *Thanks for visiting my profile Let's build, learn, and grow together*
 > 🚀 Let’s connect, collaborate, and explore the future of tech together!
