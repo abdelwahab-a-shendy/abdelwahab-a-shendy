@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdelwahab A. Shandy
 
-![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-a-shendy&color=blue) [![Visit My Blog](https://img.shields.io/badge/Visit%20My%20Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://abdelwahabshandy.hashnode.dev)
+![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-a-shendy&color=blue)
 > I write about **Cybersecurity**, **CTFs**, **Web Vulnerabilities**, and **Programming Tips** on my official blog.  
 > Check it out and follow me on my learning journey!
 
