@@ -19,7 +19,7 @@
 
 | Project                                                                                                                                                                                 | Focus                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 📧 [PhishOps](https://github.com/abdelwahab-a-shendy/PhishOps)                                                                                                                          | SOAR · Email Security · Threat Intelligence       |
+| 📧 [PhishOps](https://lnkd.in/p/dPiaEuYC)                                                                                                                          | SOAR · Email Security · Threat Intelligence       |
 | 🛡️ [Enterprise Security Simulation Lab](https://abdelwahab-a-shendy.github.io/SecLab-Hub/Enterprise%20Offensive%20Defensive%20Security%20Simulation%20HOME%20LAB/01-objective)         | Red Team · Blue Team · SIEM · SOAR                |
 | 🔐 [Active Directory Attack Detection](https://abdelwahab-a-shendy.github.io/docs/MSADADES.pdf)                                                                                         | Detection Engineering · AD · Sigma · MITRE ATT&CK |
 | 📊 [SOC Home Lab](https://abdelwahab-a-shendy.github.io/SecLab-Hub/SIEM%20&%20SOAR%20Integration%20HOME%20LAB/00.PreLabOverview)                                                        | SIEM · SOC · Log Collection · SOAR                |
