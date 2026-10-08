@@ -15,26 +15,26 @@
 
 ---
 
-### 🚀 Security Projects
+### 🚀 Featured Projects
 
-| Project                                                                                                  | Focus                                         |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| 🛡️ [SOC Monitoring & Response Environment](https://github.com/abdelwahab-a-shendy)                      | SIEM · Detection · Incident Response · SOAR   |
-| 📧 [PhishOps](https://github.com/abdelwahab-a-shendy/PhishOps)                                           | Phishing Triage · n8n · Security Automation   |
-| 🔐 [AD Attack & Defense](https://github.com/abdelwahab-a-shendy/Advanced-AD-Attack-Defense-using-Splunk) | Splunk · MITRE ATT&CK · Detection Engineering |
-| 🖥️ [Windows Server Labs](https://github.com/abdelwahab-a-shendy/Windows-Server-Labs)                    | Windows Server · AD · Networking              |
+| Project                                                                                                                                                                                 | Focus                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 📧 [PhishOps](https://github.com/abdelwahab-a-shendy/PhishOps)                                                                                                                          | SOAR · Email Security · Threat Intelligence       |
+| 🛡️ [Enterprise Security Simulation Lab](https://abdelwahab-a-shendy.github.io/SecLab-Hub/Enterprise%20Offensive%20Defensive%20Security%20Simulation%20HOME%20LAB/01-objective)         | Red Team · Blue Team · SIEM · SOAR                |
+| 🔐 [Active Directory Attack Detection](https://abdelwahab-a-shendy.github.io/docs/MSADADES.pdf)                                                                                         | Detection Engineering · AD · Sigma · MITRE ATT&CK |
+| 📊 [SOC Home Lab](https://abdelwahab-a-shendy.github.io/SecLab-Hub/SIEM%20&%20SOAR%20Integration%20HOME%20LAB/00.PreLabOverview)                                                        | SIEM · SOC · Log Collection · SOAR                |
+| 🌐 [Enterprise Network Infrastructure](https://abdelwahab-a-shendy.github.io/docs/Enterprise_Network_Project.pdf)                                                                       | Networking · IPv4/IPv6 · OSPF · HSRP              |
+| 🖥️ [Windows Server Full Lab](https://abdelwahab-a-shendy.github.io/SecLab-Hub/Windows-Server-Labs/0.Enterprise%20Infrastructure%20%28Windows%20Server%20Full%20Lab%29/0.Requirements/) | Windows Server · AD · Infrastructure              |
 
----
+### 💻 Programming Projects
 
-### 💻 Other Projects
-
-| Project                                                                                                                           | Technologies                 |
-| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| 🎬 [Movie Market](https://github.com/abdelwahab-a-shendy/Movie-Market)                                                            | ASP.NET Core · SQL Server    |
-| 🗄️ [Database Design](https://github.com/abdelwahab-a-shendy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | SQL · EERD · Database Design |
-| 🧠 [Programming Challenges](https://github.com/abdelwahab-a-shendy/Programming-Challenges-Multi-Language)                         | C# · C++ · OOP               |
-| 🧩 [OOP Mini Projects](https://github.com/abdelwahab-a-shendy/OOP-Mini-Projects)                                                  | C# · C++ · OOP               |
-| 📟 [Arduino Calculator](https://github.com/abdelwahab-a-shendy/Arduino-Calculator-4x4-Keypad-LCD)                                 | Arduino · C++                |
+| Project                                                                                                                           | Focus              |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| 🎬 [Movie Market](https://github.com/abdelwahab-a-shendy/Movie-Market)                                                            | ASP.NET Core · MVC |
+| 🧠 [Programming Challenges](https://github.com/abdelwahab-a-shendy/Programming-Challenges-Multi-Language)                         | C++ · C# · Python  |
+| 🧩 [OOP Mini Projects](https://github.com/abdelwahab-a-shendy/OOP-Mini-Projects)                                                  | C++ · C# · OOP     |
+| 🗄️ [Database Design](https://github.com/abdelwahab-a-shendy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | ERD · EERD · SQL   |
+| 📟 [Arduino Calculator](https://github.com/abdelwahab-a-shendy/Arduino-Calculator-4x4-Keypad-LCD)                                 | Arduino · C++      |
 
 ---
 
