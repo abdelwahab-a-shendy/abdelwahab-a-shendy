@@ -2,8 +2,6 @@
 
 ### 🛡️ SOC Analyst | Security Engineer | Security Automation
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdelwahab-a-shendy\&color=blue)](https://github.com/abdelwahab-a-shendy)
-
 > I build practical security environments to **detect, investigate, and automate** security operations.
 
 ---
@@ -14,8 +12,6 @@
 🛡️ eCIR Certified
 🔎 SOC & Detection Engineering
 ⚙️ Security Automation & SOAR
-
-**Attack → Detect → Investigate → Respond → Automate**
 
 ---
 
